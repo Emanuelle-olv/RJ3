@@ -1,20 +1,20 @@
-# Revisão JavaScript 3 (RJ3)
+# JavaScript Review 3 (RJ3)
 
-Este repositório contém atividades de revisão da linguagem **JavaScript** desenvolvidas durante o curso de **Desenvolvimento de Software Multiplataforma (DSM)** na FATEC.
+This repository contains **JavaScript** language review activities developed during the **Multiplatform Software Development (MSD)** course at FATEC.
 
-## 📝 Descrição
+## 📝 Description
 
-A atividade teve como objetivo reforçar os principais conceitos da linguagem JavaScript por meio da implementação de exercícios práticos.
+The activity aimed to reinforce the main concepts of the JavaScript language through the implementation of practical exercises.
 
 ## 📚 Status
 
-✅ Concluído – atividade entregue.
+✅ Completed – activity delivered.
 
-## 👩‍💻 Autora
+## 👩‍💻 Author
 
-Emanuelle S. G. Oliveira  
-Aluno do curso de DSM - FATEC
+Emanuelle S. G. Oliveira
+DSM student - FATEC
 
 ---
 
-> Projeto desenvolvido com fins educacionais.
+> Project developed for educational purposes.
